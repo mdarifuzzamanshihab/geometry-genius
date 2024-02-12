@@ -9,7 +9,7 @@ function calculateFunction() {
   const base2 = parseFloat(valueH);
   console.log(base2);
   const result1 = 0.5 * base * base2;
-  console.log("area of triangleis:", result1);
+  console.log("area of triangle is:", result1);
 }
 
 //calculate rectangle
